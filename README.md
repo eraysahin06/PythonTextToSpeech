@@ -1,5 +1,5 @@
 # PythonTextToSpeech
-A basic Python program to convert text in a PDF file to speech.
+A basic Python program to convert text in a PDF file to speech. <br>
 **HOW TO USE**
 Install necessary packages using pip installer:
 ```
