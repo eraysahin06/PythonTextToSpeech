@@ -1,6 +1,7 @@
 import pyttsx3
 import PyPDF2
-
+#pyttsx3 -> Text To Speech
+#PyPDF2 -> Read PDF
 story = open("Blog.pdf", "rb")
 pdfReader = PyPDF2.PdfFileReader(story)
 
